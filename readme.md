@@ -32,7 +32,7 @@ The following questions were addressed in this project:
 This project was developed using the following tools and environment:
 
 - **Development Environment**: VS Code
-- **Programming Language**: Python 3.9
+- **Programming Language**: Python 3.13.0
 - **Libraries**:
   - `pandas`: For data manipulation and analysis.
   - `matplotlib`: For generating visualizations (graphs and charts).
